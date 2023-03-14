@@ -1,2 +1,2 @@
 src/* linguist-documentation=false
-src/*.html linguist-language=JavaScript
+src/*.html linguist-detectable=false
