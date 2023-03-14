@@ -1,1 +1,1 @@
-src/*.html -linguist-vendor
+src/main/resources/templates/front/identification.html linguist-vendored
